@@ -1,0 +1,7 @@
+1 - Cada clique na tela gera um ponto
+2 - Ao apertar a tecla 'a' , a caixa envoltoria é gerada(AABB)
+3 - Ao apertar a tecla 's' , pontos aleatorios são criados junto com sua caixa envoltoria(em vermelho). Ao ser apertado novamente os pontos vermelhos mudam de lugar.(Obs: os pontos pretos gereados pelos cliques e acaixa envoltoria preta mudam para vermelho, não sei o motivo)
+
+4 - ao apertar 'f' verifica-se se há colisão. Caso haja, ambas as caixas ficam azuis.
+
+
