@@ -1,0 +1,2 @@
+1 - Escolher 5 pontos na tela
+2 - Apertar qualquer tecla
