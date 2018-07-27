@@ -1,4 +1,4 @@
 1 - Cada clique na tela gera um ponto
-2 - Ao apertar a tecla 'a' , a caixa envoltoria È gerada
-3 - Ao apertar a tecla 's' , pontos aleatoris s„o criados junto com sua caixa envoltoria
+2 - Ao apertar a tecla 'a' , a caixa envoltoria √© gerada
+3 - Ao apertar a tecla 's' , pontos aleatorios s√£o criados junto com sua caixa envoltoria
 (em vermelho)
